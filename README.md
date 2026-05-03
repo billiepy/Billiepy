@@ -1,97 +1,118 @@
-<h1 align="center">🕷️ This is Billie</h1>
+# Hi there, I'm Billie 🕷️ 
 
-<p align="center">
-  <img src="https://wsrv.nl/?url=github.com/billiepy.png&w=300&h=300&fit=cover&mask=circle&border=1&output=png" alt="Billie" width="150" height="150" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&width=500&lines=Golang+Backend+Developer;Python+Developer;Telegram+Bot+Builder;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Writing+code;Fixing+bugs;Drinking+too+much+coffee;Python+%26+Cybersecurity+Specialist" alt="Typing SVG" />
-  </a>
-</p>
+🚀 **Backend Developer | Golang & Python | APIs & Automation | Cybersecurity**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=billiepy&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="billiepy trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=billiepy&label=Profile%20views&color=00ff00&style=for-the-badge" alt="billiepy views" />
-  <a href="https://t.me/SlayWithRose" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+Backend developer from India 🇮🇳 focused on building **high-performance APIs**, **Telegram bots at scale**, and **reliable backend systems**.
 
 ---
 
-### 👨‍💻 About Me
+## 💫 About Me
 
-I specialize in **Python** and **Cybersecurity**, and I absolutely love contributing to tools that make developers' lives easier. 
-
-- 🔭 **Currently working on:** [GroupHelpBot](https://github.com/billiepy/GroupHelpBot) - A Telegram management bot.
-- 🌱 **Currently learning:** Advanced Python, Backend Frameworks, and Network Security.
-- 💬 **Ask me about:** Python automation, Telegram bots, and finding vulnerabilities.
-- 📫 **How to reach me:** [arclx724@gmail.com](mailto:arclx724@gmail.com)
-- ⚡ **Fun fact:** I can spend 5 hours debugging a single indentation error. 🐍
+- 🔭 Building scalable backend services & Telegram bots
+- 🌱 Learning **advanced Go patterns & cloud architecture**
+- 👯 Open to **open-source collaborations**
+- 💬 Ask me about **Go, Python, APIs, Telegram bots**
+- ⚡ Fun fact: I enjoy debugging production issues 😄
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧠 What I Do Well
+
+- Designing scalable backend architectures
+- Writing clean & performant **Go services**
+- REST API development & optimization
+- Redis caching & background workers
+- Telegram bot development for thousands of users
+- Deploying & maintaining services on VPS / Cloud
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Music APIs & Telegram Bots
+- High-performance music APIs written in **Go**
+- Redis-based caching for fast responses
+- Used by **thousands of active users**
+- Focused on speed, stability & low memory usage
+
+### 🤖 Telegram Bots Ecosystem
+- Multiple production bots
+- Webhooks, polling, rate-limit handling
+- Integrations: Spotify, Apple Music, YouTube, etc.
+
+### 🌐 Backend APIs
+- REST APIs using **Go & FastAPI**
+- JWT authentication & caching layers
+- Dockerized and deployed on VPS / Cloudflare
+
+👉 *Check pinned repositories below for real projects.*
+
+---
+
+## 🌐 Connect With Me
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Arclx724)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SlayWithRose)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🌱 Open Source
+
+- Maintains public APIs used by thousands
+- Actively improving performance & reliability
+- Open to issues, PRs, and collaborations
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Programming Languages**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,dart,kotlin,html&perline=10" />
-</a>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AshokShau&theme=github-dark-blue&hide_border=true&fire=FFFFFF" height="180" />
 
-<br>**Frameworks & Libraries**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,flutter,nodejs,express,laravel,opencv,pytorch,tensorflow&perline=10" />
-</a>
+<img src="https://github-contributor-stats.vercel.app/api?username=AshokShau&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400" />
 
-<br>**Databases & Cloud**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,aws,gcp,firebase,supabase&perline=10" />
-</a>
+</div>
 
-<br>**DevOps, Tools & Design**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,jenkins,figma,ps,ai,blender,unity&perline=10" />
-</a>
+## 📈 My Code Activity
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/billiepy/billiepy/master/images/stat.svg" alt="My WakaTime Activity" />
 </div>
 
 ---
 
-### 🐍 My Contributions
+## 🤝 Let’s Build Something
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billiepy/billiepy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billiepy/billiepy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/billiepy/billiepy/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+If you're working on:
+- Go backend systems
+- Telegram bots at scale
+- APIs that need speed & reliability
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billiepy&show_icons=true&theme=neon&hide_border=true&count_private=true" alt="billiepy stats" />
-  
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billiepy&show_icons=true&locale=en&layout=compact&theme=neon&hide_border=true" alt="billiepy top languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billiepy&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="billiepy streak" />
-</div>
-
----
-<p align="center">
-  <i>"I'm the bad guy... duh." 🕷️</i>
-</p>
+Feel free to reach out 🚀
