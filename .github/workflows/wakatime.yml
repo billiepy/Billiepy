@@ -24,7 +24,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "master"
+          BRANCH: "main" # Yahan maine 'master' ko 'main' kar diya hai
           COMMIT_MSG: "chore(readme): auto-update WakaTime stats"
           STATS_RANGE: "last_7_days"
           
