@@ -1,19 +1,19 @@
-<h1 align="center">Heya 🕷️, This is Billie</h1>
+<h1 align="center">Hi 👋, I'm Billie</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Writing+code;Fixing+bugs;Drinking+too+much+coffee;Python+%26+Cybersecurity+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Writing+code;Fixing+bugs;Drinking+too+much+coffee;Python+%26+Cybersecurity+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=billiepy&theme=dracula&no-frame=true&row=1&column=7&margin-w=15" alt="billiepy trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=billiepy&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="billiepy trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=billiepy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="billiepy views" />
+  <img src="https://komarev.com/ghpvc/?username=billiepy&label=Profile%20views&color=00ff00&style=for-the-badge" alt="billiepy views" />
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
   </a>
@@ -72,6 +72,21 @@ I specialize in **Python** and **Cybersecurity**, and I absolutely love contribu
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billiepy&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=true" alt="billiepy stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billiepy&show_icons=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=ffffff&hide_border=true" alt="billiepy top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billiepy&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="billiepy streak" />
+</div>
+
+---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"I'm the bad guy... duh." 🕷️</i>
 </p>
