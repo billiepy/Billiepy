@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=billiepy&label=Profile%20views&color=00ff00&style=for-the-badge" alt="billiepy views" />
+  <img src="https://github.com/?username=billiepy&label=Profile%20views&color=00ff00&style=for-the-badge" alt="billiepy views" />
   <a href="https://t.me/SlayWithRose" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
