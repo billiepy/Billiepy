@@ -1,35 +1,7 @@
 <h1 align="center">Heya, 🕷️ This is Billie</h1>
 
 <p align="center">
-  <svg width="170" height="170" viewBox="0 0 170 170">
-    <defs>
-      <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#00FF00" />
-        <stop offset="50%" stop-color="#ccff00" />
-        <stop offset="100%" stop-color="#00FF00" />
-      </linearGradient>
-      
-      <filter id="glow">
-          <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-          <feMerge>
-              <feMergeNode in="coloredBlur"/>
-              <feMergeNode in="SourceGraphic"/>
-          </feMerge>
-      </filter>
-      
-      <clipPath id="circleMask">
-          <circle cx="85" cy="85" r="75" />
-      </clipPath>
-    </defs>
-
-    <circle cx="85" cy="85" r="82" fill="none" stroke="url(#neonGradient)" stroke-width="6" filter="url(#glow)">
-        <animateTransform attributeName="transform" type="rotate" from="0 85 85" to="360 85 85" dur="4s" repeatCount="indefinite" />
-    </circle>
-    
-    <circle cx="85" cy="85" r="78" fill="none" stroke="#0d1117" stroke-width="4" />
-
-    <image xlink:href="https://github.com/billiepy.png" x="10" y="10" width="150" height="150" clip-path="url(#circleMask)" />
-  </svg>
+  <img src="https://wsrv.nl/?url=github.com/billiepy.png&mask=circle" alt="Billie" width="150" height="150" />
 </p>
 
 <p align="center">
