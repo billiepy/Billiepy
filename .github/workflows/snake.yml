@@ -18,9 +18,9 @@ jobs:
         uses: avinal/Profile-Readme-WakaTime@master
         env:
           GIT_AUTHOR_NAME: billiepy
-          GIT_AUTHOR_EMAIL: billiepy@users.noreply.github.com
+          GIT_AUTHOR_EMAIL: Arclx724@gmail.com
           GIT_COMMITTER_NAME: billiepy
-          GIT_COMMITTER_EMAIL: billiepy@users.noreply.github.com
+          GIT_COMMITTER_EMAIL: Arclx724@gmail.com
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
