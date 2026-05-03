@@ -61,16 +61,14 @@ I specialize in **Python** and **Cybersecurity**, and I absolutely love contribu
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🐍 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billiepy&bg_color=282a36&color=ff79c6&line=bd93f9&point=50fa7b&area=true&hide_border=true" alt="billiepy activity graph" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billiepy&theme=dracula&hide_border=true" alt="billiepy streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billiepy/billiepy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billiepy/billiepy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/billiepy/billiepy/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
