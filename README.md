@@ -1,7 +1,7 @@
 <h1 align="center">Heya, 🕷️ This is Billie</h1>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=github.com/billiepy.png&w=300&h=300&fit=cover&mask=circle" alt="Billie" width="150" height="150" />
+  <img src="https://wsrv.nl/?url=github.com/billiepy.png&w=300&h=300&fit=cover&mask=circle&border=1&output=png" alt="Billie" width="150" height="150" />
 </p>
 
 <p align="center">
