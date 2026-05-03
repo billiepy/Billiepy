@@ -64,8 +64,8 @@ I specialize in **Python** and **Cybersecurity**, and I absolutely love contribu
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billiepy&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="billiepy stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billiepy&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="billiepy top languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=billiepy&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="billiepy stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=billiepy&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="billiepy top languages" />
 </div>
 
 <br>
