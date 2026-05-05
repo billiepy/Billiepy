@@ -4,7 +4,7 @@
 
 🚀 **Backend Developer | Golang & Python | APIs & Automation | Cybersecurity**
 
-Backend developer from India 🇮🇳 focused on building **high-performance APIs**, **Telegram bots at scale**, and **reliable backend systems**.
+Backend developer focused on building **high-performance APIs**, **Telegram bots at scale**, and **reliable backend systems**.
 
 ---
 
